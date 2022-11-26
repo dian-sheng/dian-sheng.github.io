@@ -1,0 +1,13 @@
+---
+title: "Dian Sheng"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://dian-sheng.github.io
+
+---
+
+About this blog
