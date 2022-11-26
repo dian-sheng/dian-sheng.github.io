@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Blog"
+  title: "Dian's Blog"
   navbar:
     right:
       - about.qmd
