@@ -8,6 +8,9 @@ about:
     - icon: github
       text: Github
       href: https://dian-sheng.github.io
+    - icon: email
+      text: Email
+      href: dian.sheng.jeff@gmail.com
 ---
 
 
