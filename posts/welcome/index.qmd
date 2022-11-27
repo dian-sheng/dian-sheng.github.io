@@ -1,13 +1,12 @@
 ---
 title: "Welcome To My Blog"
-author: "Dian Sheng"
-date: "2022-11-27"
+author: "Tristan O'Malley"
+date: "2022-11-22"
 categories: [news]
 ---
 
-This is my first post in Github. Welcome!
+This is the first post in a Quarto blog. Welcome!
 
 ![](thumbnail.jpg)
 
-My name is Dian Sheng. I received dual BEng degrees in Electronic Science and Technology from Xi’an Jiaotong – Liverpool University and The University of Liverpool (UoL) with First Class Honors in 2022. Apart from work, I like to watch movies, take a walk, and hike.
-
+Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.

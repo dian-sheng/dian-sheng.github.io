@@ -5,9 +5,9 @@ website:
   title: "Dian's Blog"
   navbar:
     right:
-      - about.qmd
+      - article.qmd
       - icon: github
-        href: https://github.com/
+        href: https://dian-sheng.github.io
       
 format:
   html:
