@@ -2,7 +2,7 @@
 title: "Dian Sheng"
 image: profile.jpg
 about:
-  template: jolla
+  template: trestles
   links:
     - icon: github
       text: Github
@@ -10,4 +10,13 @@ about:
 
 ---
 
-I would like to share my latest works here including paper readings and thoughts.
+
+## Education
+
+:::{#hero-heading}
+
+Xi'an Jiaotong Liverpool University, Suzhou, China
+BEng in Electronic Science and Technology | First Class Hornor | September 2018 -July 2022
+
+
+:::
